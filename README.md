@@ -16,4 +16,5 @@ This software allows you to mix multiple bluetooth and wired connections to play
 <br>
 Installation Instructions:
 <br>
+<br>
 For Windows it's as simple as clicking on the build.bat and follow the instructions. For Linux (at the moment while I'm working on it) I had to go in the terminal rather than a single click install setup and type: 'sudo apt update && sudo apt install python3 python3-tk pulseaudio-utils', 'cd /home/"YOUR_NAME"/Downloads/MultiHeadphones/linux/', 'chmod +x run.sh install.sh', './run/sh', './install.sh', and then I could use the app (I was using Linux Mint XFCE)
